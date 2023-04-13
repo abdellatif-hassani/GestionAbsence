@@ -1,0 +1,58 @@
+body {
+    padding-top: 75px;
+}
+
+.professeur {
+    display: none;
+}
+.marginTop{
+    margin-top: 1em;
+}
+.ajoutClassCon{
+    margin-left: 12em;
+}
+
+#footer{
+    position: absolute;
+    bottom: 0px;
+    left: 40%;
+}
+
+.comebackHome{
+    margin-top: 2em;
+    font-size: 2em;
+    color: #004C84;
+    font-weight: bold;
+}
+.linkInscription{
+    font-size: 1.1em;
+    display: inline-block;
+    margin-top: 2em;
+    margin-left: 5em;
+    padding-bottom: 0.5em;
+}
+.logoInheader img{
+    width: 60%;
+    padding-left: 4em;
+}
+.titreAbs{
+    margin-bottom: 1.5em;
+}
+
+.addClassLink{
+    padding: 10px 0 15px 0;
+    font-size: 1.3em;
+    font-weight: 500;
+    color: #012970;
+    font-family: "Poppins", sans-serif;
+}
+.addClassLink:hover{
+    text-decoration: none;
+}
+.marginButtomButton{
+    margin-bottom: 2em;
+}
+
+.colorTobutton{
+    background-color:#004C84;
+}
